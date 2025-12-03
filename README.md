@@ -15,6 +15,12 @@ optimizaciju performansi, sigurnost te serversku infrastrukturu.
 S više od **18 godina iskustva**, kombiniram znanje dizajna, developmenta i server administracije  
 kako bih isporučio brza, stabilna i skalabilna digitalna rješenja.
 
+## 📊 GitHub statistike
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=istudiowp&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=istudiowp&layout=compact&theme=default)
+
 ---
 
 ## 🛠️ Tech Stack
